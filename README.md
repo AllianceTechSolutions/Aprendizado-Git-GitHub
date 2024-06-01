@@ -1,0 +1,1 @@
+Este repositório foi criado para documentar meu processo de aprendizado em Git e GitHub, essenciais para a carreira de um desenvolvedor JavaScript Fullstack.
