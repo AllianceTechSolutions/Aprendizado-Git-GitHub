@@ -1,0 +1,8 @@
+# Ramificações (Branches)
+
+Ramificações permitem o desenvolvimento paralelo. Principais comandos:
+
+- git branch: 'Lista todas as ramificações.'
+- git branch [nome]: 'Cria uma nova ramificação.'
+- git checkout [nome]: 'Troca para a ramificação especificada.'
+- git merge [nome]: 'Mescla a ramificação especificada na atual.'
