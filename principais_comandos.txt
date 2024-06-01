@@ -1,0 +1,10 @@
+# Principais Comandos Git
+
+- git init: 'Inicializa um novo repositório Git.'
+- git clone [url]: 'Clona um repositório remoto.'
+- git add [arquivo]: 'Adiciona mudanças para a área de stage.'
+- git commit -m "mensagem": 'Comita mudanças no repositório.'
+- git status`: 'Verifica o status das mudanças.'
+- git push: 'Envia commits para um repositório remoto.'
+- git pull: 'Puxa atualizações de um repositório remoto.'
+- git checkout [ramificação]: 'Troca para uma ramificação específica.'
