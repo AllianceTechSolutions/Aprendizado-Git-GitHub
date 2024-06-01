@@ -1,0 +1,26 @@
+# Conectando ao GitHub
+
+1. Crie um repositório no GitHub.
+
+Acesse GitHub e faça login na sua conta.
+No canto superior direito, clique no ícone "+" e selecione "New repository" (Novo repositório).
+Preencha o nome do repositório e outras configurações desejadas.
+Clique em "Create repository" (Criar repositório).
+
+2. Conecte o repositório local ao GitHub:
+
+Abra o terminal ou prompt de comando no diretório do seu projeto local.
+Adicione o repositório remoto (o repositório no GitHub) ao seu repositório local usando o comando git remote add origin. Este comando associa o repositório local ao repositório remoto.
+
+   git remote add origin https://github.com/usuario/repo.git
+
+   Substitua https://github.com/usuario/repo.git pela URL do repositório que você criou no GitHub. Você pode encontrar essa URL na página do repositório no GitHub.
+
+3.Envie os Arquivos Locais para o Repositório no GitHub:
+
+Use o comando git push -u origin master para enviar seus commits locais para o repositório remoto no GitHub.
+
+git push -u origin master
+
+git push: Envia os commits do repositório local para o repositório remoto.
+-u origin master: Define a ramificação master do repositório remoto origin como a ramificação padrão para envio e recebimento de commits futuros. origin é o nome padrão dado ao repositório remoto quando você o adiciona.
