@@ -1,0 +1,3 @@
+# Introdução
+
+Git é um sistema de controle de versão distribuído, criado por Linus Torvalds. GitHub é uma plataforma de hospedagem de código que utiliza Git, oferecendo ferramentas de colaboração e gerenciamento de projetos. Juntos, são essenciais para o desenvolvimento de software moderno.
